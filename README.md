@@ -125,26 +125,26 @@ cv2.destroyAllwindows()
 ## Output
 
 ### i) Write the frame as JPG image
-![output](./static/img/e2ot1.png)
+![output](./static/img/e2ot1.jpeg)
 </br>
 </br>
 
 
 ### ii) Display the video
-![output](./static/img/e2ot2.png)
+![output](./static/img/e2ot2.jpeg)
 </br>
 </br>
 
 
 ### iii) Display the video by resizing the window
-![output](./static/img/e2ot3.png)
+![output](./static/img/e2ot3.jpeg)
 </br>
 </br>
 
 
 
 ### iv) Rotate and display the video
-![output](./static/img/e2ot4.png)
+![output](./static/img/e2ot4.jpeg)
 </br>
 </br>
 
